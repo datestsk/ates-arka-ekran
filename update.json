@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.29",
-  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.29/ATESArkaEkran.apk",
-  "changelog": "Güncelleme sistemi eklendi."
+  "versionCode": 30,
+  "versionName": "1.30",
+  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.30/ATESArkaEkran.apk",
+  "changelog": "Yeni taş ve yeşil tema, bildirim çubuğuna uygun üst alan, ayarlardan açılabilen işlem raporu ve Shizuku indirme/kurulum kısayolları."
 }
