@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.38",
-  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.38/ATESArkaEkran.apk",
-  "changelog": "Kilit korumasının eski oturum kaydına takılması düzeltildi; geri gelen Xiaomi başlatıcısı görev bazında takip ediliyor."
+  "versionCode": 39,
+  "versionName": "1.39",
+  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.39/ATESArkaEkran.apk",
+  "changelog": "Arka ekran görüntüleyicisine ayrı başlatılmış ön plan servisi eklendi; son uygulamalardan kapatma ve servis yaşam döngüsü kaydı geliştirildi."
 }
