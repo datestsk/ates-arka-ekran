@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.31",
-  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.31/ATESArkaEkran.apk",
-  "changelog": "Yalnız arka ekran başlatma, kamera önceliği ve sadeleştirilmiş otomatik kurtarma."
+  "versionCode": 32,
+  "versionName": "1.32",
+  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.32/ATESArkaEkran.apk",
+  "changelog": "Yanlış HyperOS pencere ön kontrolü düzeltildi; gerçek başlatma sonucu ve ekran görevi doğrulanıyor."
 }
