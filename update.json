@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.36/ATESArkaEkran.apk",
-  "changelog": "Saydam duvar kağıdı penceresi kaldırıldı; seçilen uygulama tek kez başlatılıp taşıma sonrası kararlılık izleniyor."
+  "versionCode": 37,
+  "versionName": "1.37",
+  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.37/ATESArkaEkran.apk",
+  "changelog": "Kilit sırasında düşük güç modundaki arka ekran korunur; Xiaomi arka ekran başlatıcısının duvar kağıdını geri almasına karşı tek seferlik koruma eklendi."
 }
