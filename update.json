@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.35",
-  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.35/ATESArkaEkran.apk",
-  "changelog": "Kilit sırasında arka panel için ayrı uyandırma yolu ve seçilen uygulamayı arka ekrana taşıma düzeltmesi."
+  "versionCode": 36,
+  "versionName": "1.36",
+  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.36/ATESArkaEkran.apk",
+  "changelog": "Saydam duvar kağıdı penceresi kaldırıldı; seçilen uygulama tek kez başlatılıp taşıma sonrası kararlılık izleniyor."
 }
