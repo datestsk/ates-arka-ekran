@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.34",
-  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.34/ATESArkaEkran.apk",
-  "changelog": "Kilit ve uygulama kapanışından sonra toparlanma gecikmeleri azaltıldı; görüntüleyici süreç koruması güçlendirildi."
+  "versionCode": 35,
+  "versionName": "1.35",
+  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.35/ATESArkaEkran.apk",
+  "changelog": "Kilit sırasında arka panel için ayrı uyandırma yolu ve seçilen uygulamayı arka ekrana taşıma düzeltmesi."
 }
