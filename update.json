@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.37",
-  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.37/ATESArkaEkran.apk",
-  "changelog": "Kilit sırasında düşük güç modundaki arka ekran korunur; Xiaomi arka ekran başlatıcısının duvar kağıdını geri almasına karşı tek seferlik koruma eklendi."
+  "versionCode": 38,
+  "versionName": "1.38",
+  "apkUrl": "https://github.com/datestsk/ates-arka-ekran/releases/download/v1.38/ATESArkaEkran.apk",
+  "changelog": "Kilit korumasının eski oturum kaydına takılması düzeltildi; geri gelen Xiaomi başlatıcısı görev bazında takip ediliyor."
 }
